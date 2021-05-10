@@ -6,5 +6,9 @@ categories: finance bookmark
 ---
 
 - [Naver finance][home-finance]
+- [LG우][lg-w] 
+- [LG][lg]
 
 [home-finance]: https://finance.naver.com
+[lg-w]: https://finance.naver.com/item/main.nhn?code=003555
+[lg]: https://finance.naver.com/item/main.nhn?code=003550
