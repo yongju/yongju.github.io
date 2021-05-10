@@ -7,4 +7,4 @@ categories: finance bookmark
 
 - [Naver finance][home-finance]
 
-[home-finance]: https://https://finance.naver.com
+[home-finance]: https://finance.naver.com
