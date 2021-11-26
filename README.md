@@ -1,4 +1,1 @@
 # snri.io
-
-
-test
